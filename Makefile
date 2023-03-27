@@ -8,7 +8,7 @@ CFLAGS	=	-Wall -Wextra -Werror
 RM	=	del /Q #rm -f in Unix / Linux
 
 #.c uzantılı dosyalar
-
+SRC	= power.c\
 
 #Object dosyaları
 OBJ	=	$(SRC:.c=.o)

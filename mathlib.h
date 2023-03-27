@@ -3,6 +3,7 @@
 # include <unistd.h>
 # include <stdlib.h>
 
-
+//prototypes
+int power(int nbr);
 
 #endif
