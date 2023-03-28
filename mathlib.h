@@ -5,5 +5,5 @@
 
 //prototypes
 int power(int nbr);
-
+int cube(int nbr);
 #endif

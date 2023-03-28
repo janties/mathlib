@@ -9,6 +9,7 @@ RM	=	del /Q #rm -f in Unix / Linux
 
 #.c uzantılı dosyalar
 SRC	= power.c\
+	cube.c\
 
 #Object dosyaları
 OBJ	=	$(SRC:.c=.o)
